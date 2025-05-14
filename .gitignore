@@ -1,0 +1,17 @@
+# General
+node_modules/
+.env
+.DS_Store
+
+# iOS
+ios/build/
+ios/Pods/
+*.xcworkspace
+
+# Android
+android/.gradle/
+android/app/build/
+
+# Backend
+__pycache__/
+*.pyc
