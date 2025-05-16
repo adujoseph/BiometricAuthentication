@@ -1,0 +1,19 @@
+current directory: /Users/admin/sandbox/BiometricAuthentication/frontend/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+/Users/admin/.rvm/rubies/ruby-2.7.6/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/admin/sandbox/BiometricAuthentication/frontend/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250516-94948-nneh19 sitelibdir\=./.gem.20250516-94948-nneh19 clean
+
+current directory: /Users/admin/sandbox/BiometricAuthentication/frontend/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250516-94948-nneh19 sitelibdir\=./.gem.20250516-94948-nneh19
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/admin/sandbox/BiometricAuthentication/frontend/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250516-94948-nneh19 sitelibdir\=./.gem.20250516-94948-nneh19 install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 nkf.bundle ./.gem.20250516-94948-nneh19
+
+current directory: /Users/admin/sandbox/BiometricAuthentication/frontend/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250516-94948-nneh19 sitelibdir\=./.gem.20250516-94948-nneh19 clean
